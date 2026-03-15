@@ -1,0 +1,7 @@
+{
+  "model": "Sonnet",
+  "statusLine": {
+    "type": "command",
+    "command": "bash /Users/cleophasfournier/.claude/statusline-command.sh"
+  }
+}
